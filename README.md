@@ -1,4 +1,4 @@
-# NoobieProjects
+# News viewer
 
-Conjunto de projetos pessoais sem função aparente.
-feel free to commit improvements 
+** 26122019 - This was my first project on GitHub, it scrapes some popular news papers
+and print some news.
